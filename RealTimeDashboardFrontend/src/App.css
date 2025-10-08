@@ -1,0 +1,4 @@
+/* Only essential chart responsiveness */
+.recharts-wrapper {
+  width: 100% !important;
+}
